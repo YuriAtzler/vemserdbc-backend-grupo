@@ -5,6 +5,7 @@
 
 #VemSerDBC-YuriAtzler
 <<<<<<< HEAD
+
 #VemSerDBC-Jonas de lara
 =======
 
